@@ -1,0 +1,25 @@
+body {
+	color: #FFF;
+	background: #000;
+	margin: 8%;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-size: 2em;
+}
+h3 {
+	padding-top: 3%;
+}
+
+form {
+	margin-bottom: 3%;
+}
+
+tr {
+	display: inline;
+}
+
+td {
+	width: 350px;
+}
